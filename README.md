@@ -1,3 +1,5 @@
+ALT LINK : https://ghostop-studio-trip-picsvid-org.netlify.app
+
 <div align="center">
   <!-- Replace the src below with a link to your actual logo/banner if you have one -->
   <h1>✈️ Trip & Vacation Photo Organizer</h1>
