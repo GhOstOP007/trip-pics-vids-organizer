@@ -1,8 +1,9 @@
-ALT LINK : https://ghostop-studio-trip-picsvid-org.netlify.app
+
 
 <div align="center">
   <!-- Replace the src below with a link to your actual logo/banner if you have one -->
   <h1>✈️ Trip & Vacation Photo Organizer</h1>
+  <a link="https://ghostop-studio-trip-picsvid-org.netlify.app>Alternate link to run and test</a>
   <p><strong>By GhOstOP Studio</strong></p>
   <p>
     A smart, local-first desktop application that automatically categorizes your scattered travel memories using on-device AI and GPS metadata.
